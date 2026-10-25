@@ -2,6 +2,8 @@ import './App.css'
 
 import { Router, Route } from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar'
+import Notif from './components/Notifications/Notif'
+
 import tech_logo from './assets/logos/techLogo.png'
 
 function App() {
@@ -11,6 +13,7 @@ function App() {
       <Navbar />
       <div className='underline'></div>
       <img className="tech-logo" src={tech_logo} alt="Capital Tech" />
+      <Notif />
     </div>
   )
 }

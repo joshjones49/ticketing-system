@@ -1,0 +1,20 @@
+.notif{
+    position: absolute;
+    z-index: -80;
+    top: 45%;
+    left: 1%;
+    width: 30%;
+    height: 50%;
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom right, gold, aqua, gold);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.notif-ctn{
+    background-color: black;
+    height: 99%;
+    width: 99%;
+    border-radius: 5px;
+}

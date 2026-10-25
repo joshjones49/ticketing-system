@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0%;
   display: flex;
-  background-image: radial-gradient(circle at center,rgb(20, 20, 20) 2%, black 70%);
+  background-image: radial-gradient(circle at center,rgb(44, 44, 44) 2%, black 70%);
   height: 100vh;
   width: 100vw;
   color: white;
