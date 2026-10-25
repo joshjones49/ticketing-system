@@ -1,0 +1,15 @@
+.navbar{
+    height: 5%;
+    width: 100vw;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-divs{
+    border: 1px solid white;
+    height: 100%;
+    width: 32%;
+}
