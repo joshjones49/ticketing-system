@@ -1,58 +1,86 @@
 .navbar{
-    height: 5%;
+    box-sizing: border-box;
+    height: 64px;
     width: 100vw;
-    background-color: transparent;
+    padding: 0 32px;
+    background-color: #0c0f14;
+    border-bottom: 1px solid rgb(255 255 255 / 10%);
+    font-family: Arial, sans-serif;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 24px;
 }
 
 .nav-divs{
     height: 100%;
-    width: 32%;
+    flex: 1 1 0;
     display: flex;
     align-items: center;
     justify-content: center;
+    color: #aab4c0;
+    font-size: 0.85rem;
+}
+
+.nav-divs:first-child{
+    justify-content: flex-start;
+}
+
+.nav-divs:last-child{
+    justify-content: flex-end;
 }
 
 .search{
     display: flex;
-    justify-content: center;
     align-items: center;
-    height: 100%;
-    width: 43%;
-    /* background-image: linear-gradient(to right, blue, purple, red, purple, blue); */
+    width: 100%;
+    max-width: 520px;
+    height: 40px;
+    border: 1px solid rgb(255 255 255 / 15%);
+    border-radius: 8px;
+    background: #1b2028;
+    overflow: hidden;
+    transition: border-color 150ms ease, box-shadow 150ms ease;
+}
+
+.search:focus-within{
+    border-color: #53d7e5;
+    box-shadow: 0 0 0 3px rgb(83 215 229 / 20%);
 }
 
 .search > button{
-    background-color: black;
+    background-color: #12616a;
     border: none;
-    height: 92%;
-    width: 15%;
-    border-radius: 0px 5px 5px 0px;
+    height: 100%;
+    width: 52px;
+    flex: 0 0 auto;
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    transition: ease-in-out 0.3s;
+    transition: background-color 150ms ease;
 }
 
 .search>button:hover{
-    transform: scale(110%);
-    color: aqua;
+    background-color: #1a8591;
 }
 
 .search > input{
-    height: 92%;
+    flex: 1;
+    min-width: 0;
+    height: 100%;
+    padding: 0 14px;
     border: none;
-    border-radius: 5px 0px 0px 5px;
-    display: flex;
-    text-align: center;
-    background-color: black;
+    outline: none;
+    background: transparent;
     color: white;
-    font-size: 18px;
+    font-size: 0.95rem;
+}
+
+.search > input::placeholder{
+    color: #7d8895;
 }
 
 .logo{
@@ -76,11 +104,30 @@
     text-decoration: none;
     color: white;
     cursor: pointer;
-    transition: ease-in-out 0.3s;
-    font-size: .8rem;
+    transition: color 150ms ease, border-color 150ms ease;
+    padding: 8px 16px;
+    border: 1px solid rgb(255 255 255 / 20%);
+    border-radius: 6px;
+}
+
+.repair-link h1{
+    margin: 0;
+    font-size: 0.85rem;
+    font-weight: 700;
 }
 
 .repair-link:hover{
-    transform: scale(110%);
-    color: aqua;
+    color: #53d7e5;
+    border-color: #53d7e5;
+}
+
+@media (max-width: 760px){
+    .navbar{
+        padding: 0 14px;
+        gap: 10px;
+    }
+
+    .nav-divs:last-child{
+        display: none;
+    }
 }

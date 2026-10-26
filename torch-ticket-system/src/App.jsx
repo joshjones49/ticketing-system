@@ -4,6 +4,7 @@ import { Router, Route } from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar'
 import Notif from './components/Notifications/Notif'
 import Main from './components/Main/Main'
+import Footer from './components/Footer/Footer'
 
 import tech_logo from './assets/logos/techLogo.png'
 
@@ -16,6 +17,7 @@ function App() {
       <img className="tech-logo" src={tech_logo} alt="Capital Tech" />
       <Notif />
       <Main />
+      <Footer />
     </div>
   )
 }

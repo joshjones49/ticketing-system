@@ -1,9 +1,8 @@
 .main {
-  position: absolute;
-  top: 80px;
-  left: 32%;
+  align-self: flex-end;
+  margin: 24px 5% 32px 0;
   width: 63%;
-  height: calc(100vh - 96px);
+  height: calc(100vh - 120px);
   padding: 30px clamp(18px, 3vw, 42px);
   overflow-y: auto;
   color: #f5f7fa;
@@ -185,10 +184,8 @@
 
 @media (max-width: 760px) {
   .main {
-    top: 80px;
-    left: 0;
+    margin-right: 0;
     width: 100%;
-    height: calc(100vh - 90px);
     padding: 24px 16px;
   }
 
