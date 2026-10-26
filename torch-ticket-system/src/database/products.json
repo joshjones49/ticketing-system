@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "ct-001",
+    "sku": "CT-2025-0001",
+    "slug": "ct-everyday-14-laptop",
+    "name": "CT Everyday 14 Laptop",
+    "brand": "Capital Tech",
+    "model": "Everyday 14 Laptop",
+    "category": "Laptops",
+    "description": "A portable computer for work, browsing, and everyday tasks.",
+    "price": 449.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Silver",
+    "year_made": 2025,
+    "specifications": {
+      "processor": "4-core 2.8 GHz",
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "storage_type": "SSD",
+      "screen_inches": 14,
+      "resolution": "1920 × 1080",
+      "operating_system": "Linux"
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Bluetooth",
+      "USB-C",
+      "USB-A"
+    ],
+    "stock_quantity": 12,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-everyday-14-laptop.webp",
+    "image_alt": "Studio-style image of CT Everyday 14 Laptop in silver",
+    "tags": [
+      "laptops",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-002",
+    "sku": "CT-2024-0002",
+    "slug": "ct-pro-16-laptop",
+    "name": "CT Pro 16 Laptop",
+    "brand": "Capital Tech",
+    "model": "Pro 16 Laptop",
+    "category": "Laptops",
+    "description": "A portable computer for work, browsing, and everyday tasks.",
+    "price": 899.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "excellent",
+    "condition_notes": "Minimal cosmetic wear; fully functional. Sample inspection status.",
+    "color": "Space Gray",
+    "year_made": 2024,
+    "specifications": {
+      "processor": "8-core 3.2 GHz",
+      "memory_gb": 32,
+      "storage_gb": 1000,
+      "storage_type": "SSD",
+      "screen_inches": 16,
+      "resolution": "2560 × 1600",
+      "operating_system": "Linux"
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Bluetooth",
+      "USB-C",
+      "USB-A"
+    ],
+    "stock_quantity": 4,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-pro-16-laptop.webp",
+    "image_alt": "Studio-style image of CT Pro 16 Laptop in space gray",
+    "tags": [
+      "laptops",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-003",
+    "sku": "CT-2025-0003",
+    "slug": "ct-flex-13-convertible",
+    "name": "CT Flex 13 Convertible",
+    "brand": "Capital Tech",
+    "model": "Flex 13 Convertible",
+    "category": "Laptops",
+    "description": "A touchscreen laptop with a 360-degree hinge for laptop and tablet use.",
+    "price": 599.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Ocean Blue",
+    "year_made": 2025,
+    "specifications": {
+      "processor": "6-core 2.6 GHz",
+      "memory_gb": 16,
+      "storage_gb": 512,
+      "screen_inches": 13.3,
+      "touchscreen": true,
+      "hinge_degrees": 360,
+      "operating_system": "Linux"
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Bluetooth",
+      "USB-C",
+      "USB-A"
+    ],
+    "stock_quantity": 7,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-flex-13-convertible.webp",
+    "image_alt": "Studio-style image of CT Flex 13 Convertible in ocean blue",
+    "tags": [
+      "laptops",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-004",
+    "sku": "CT-2023-0004",
+    "slug": "ct-student-15-laptop",
+    "name": "CT Student 15 Laptop",
+    "brand": "Capital Tech",
+    "model": "Student 15 Laptop",
+    "category": "Laptops",
+    "description": "A portable computer for work, browsing, and everyday tasks.",
+    "price": 279.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "good",
+    "condition_notes": "Light cosmetic wear; fully functional. Sample inspection status.",
+    "color": "Black",
+    "year_made": 2023,
+    "specifications": {
+      "processor": "4-core 2.4 GHz",
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "screen_inches": 15.6,
+      "resolution": "1920 × 1080",
+      "operating_system": "Linux"
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Bluetooth",
+      "USB-C",
+      "USB-A"
+    ],
+    "stock_quantity": 9,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-student-15-laptop.webp",
+    "image_alt": "Studio-style image of CT Student 15 Laptop in black",
+    "tags": [
+      "laptops",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-005",
+    "sku": "CT-2025-0005",
+    "slug": "ct-studio-mini-desktop",
+    "name": "CT Studio Mini Desktop",
+    "brand": "Capital Tech",
+    "model": "Studio Mini Desktop",
+    "category": "Desktops",
+    "description": "A compact desktop for a tidy home or office workspace.",
+    "price": 399.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Silver",
+    "year_made": 2025,
+    "specifications": {
+      "processor": "6-core 3.0 GHz",
+      "memory_gb": 16,
+      "storage_gb": 512,
+      "storage_type": "SSD",
+      "operating_system": "Linux"
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Ethernet",
+      "USB-C",
+      "USB-A"
+    ],
+    "stock_quantity": 10,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-studio-mini-desktop.webp",
+    "image_alt": "Studio-style image of CT Studio Mini Desktop in silver",
+    "tags": [
+      "desktops",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-006",
+    "sku": "CT-2024-0006",
+    "slug": "ct-workstation-tower",
+    "name": "CT Workstation Tower",
+    "brand": "Capital Tech",
+    "model": "Workstation Tower",
+    "category": "Desktops",
+    "description": "An expandable desktop for demanding multitasking and creative work.",
+    "price": 749.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "excellent",
+    "condition_notes": "Minimal cosmetic wear; fully functional. Sample inspection status.",
+    "color": "Black",
+    "year_made": 2024,
+    "specifications": {
+      "processor": "12-core 3.4 GHz",
+      "memory_gb": 32,
+      "storage_gb": 2000,
+      "storage_type": "SSD",
+      "graphics_memory_gb": 8,
+      "operating_system": "Linux"
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Ethernet",
+      "USB-C",
+      "USB-A"
+    ],
+    "stock_quantity": 3,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-workstation-tower.webp",
+    "image_alt": "Studio-style image of CT Workstation Tower in black",
+    "tags": [
+      "desktops",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-007",
+    "sku": "CT-2025-0007",
+    "slug": "ct-all-in-one-24",
+    "name": "CT All-in-One 24",
+    "brand": "Capital Tech",
+    "model": "All-in-One 24",
+    "category": "Desktops",
+    "description": "A desktop computer integrated into a space-saving display.",
+    "price": 649.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "White",
+    "year_made": 2025,
+    "specifications": {
+      "processor": "6-core 2.8 GHz",
+      "memory_gb": 16,
+      "storage_gb": 512,
+      "screen_inches": 23.8,
+      "resolution": "1920 × 1080",
+      "operating_system": "Linux"
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Ethernet",
+      "USB-C",
+      "USB-A"
+    ],
+    "stock_quantity": 5,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-all-in-one-24.webp",
+    "image_alt": "Studio-style image of CT All-in-One 24 in white",
+    "tags": [
+      "desktops",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-008",
+    "sku": "CT-2025-0008",
+    "slug": "ct-view-24-monitor",
+    "name": "CT View 24 Monitor",
+    "brand": "Capital Tech",
+    "model": "View 24 Monitor",
+    "category": "Monitors",
+    "description": "A desktop display for productivity and media.",
+    "price": 139.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Black",
+    "year_made": 2025,
+    "specifications": {
+      "screen_inches": 23.8,
+      "resolution": "1920 × 1080",
+      "refresh_rate_hz": 75,
+      "panel": "IPS",
+      "response_time_ms": 5
+    },
+    "connectivity": [
+      "HDMI",
+      "DisplayPort"
+    ],
+    "stock_quantity": 20,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-view-24-monitor.webp",
+    "image_alt": "Studio-style image of CT View 24 Monitor in black",
+    "tags": [
+      "monitors",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-009",
+    "sku": "CT-2024-0009",
+    "slug": "ct-ultrawide-34-monitor",
+    "name": "CT UltraWide 34 Monitor",
+    "brand": "Capital Tech",
+    "model": "UltraWide 34 Monitor",
+    "category": "Monitors",
+    "description": "A curved ultrawide display with room for multiple windows.",
+    "price": 329.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "excellent",
+    "condition_notes": "Minimal cosmetic wear; fully functional. Sample inspection status.",
+    "color": "Charcoal",
+    "year_made": 2024,
+    "specifications": {
+      "screen_inches": 34,
+      "resolution": "3440 × 1440",
+      "refresh_rate_hz": 100,
+      "panel": "VA",
+      "curved": true
+    },
+    "connectivity": [
+      "HDMI",
+      "DisplayPort"
+    ],
+    "stock_quantity": 4,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-ultrawide-34-monitor.webp",
+    "image_alt": "Studio-style image of CT UltraWide 34 Monitor in charcoal",
+    "tags": [
+      "monitors",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-010",
+    "sku": "CT-2025-0010",
+    "slug": "ct-studio-27-4k-monitor",
+    "name": "CT Studio 27 4K Monitor",
+    "brand": "Capital Tech",
+    "model": "Studio 27 4K Monitor",
+    "category": "Monitors",
+    "description": "A desktop display for productivity and media.",
+    "price": 349.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Silver",
+    "year_made": 2025,
+    "specifications": {
+      "screen_inches": 27,
+      "resolution": "3840 × 2160",
+      "refresh_rate_hz": 60,
+      "panel": "IPS",
+      "usb_c_power_delivery_watts": 65
+    },
+    "connectivity": [
+      "HDMI",
+      "DisplayPort",
+      "USB-C"
+    ],
+    "stock_quantity": 8,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-studio-27-4k-monitor.webp",
+    "image_alt": "Studio-style image of CT Studio 27 4K Monitor in silver",
+    "tags": [
+      "monitors",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-011",
+    "sku": "CT-2025-0011",
+    "slug": "ct-slate-10-tablet",
+    "name": "CT Slate 10 Tablet",
+    "brand": "Capital Tech",
+    "model": "Slate 10 Tablet",
+    "category": "Tablets",
+    "description": "A portable touchscreen device for browsing, notes, and entertainment.",
+    "price": 219.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Sky Blue",
+    "year_made": 2025,
+    "specifications": {
+      "screen_inches": 10.1,
+      "memory_gb": 4,
+      "storage_gb": 128,
+      "operating_system": "Android",
+      "battery_mah": 7000
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Bluetooth",
+      "USB-C"
+    ],
+    "stock_quantity": 15,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Charging cable"
+    ],
+    "image": "images/ct-slate-10-tablet.webp",
+    "image_alt": "Studio-style image of CT Slate 10 Tablet in sky blue",
+    "tags": [
+      "tablets",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-012",
+    "sku": "CT-2024-0012",
+    "slug": "ct-slate-pro-12-tablet",
+    "name": "CT Slate Pro 12 Tablet",
+    "brand": "Capital Tech",
+    "model": "Slate Pro 12 Tablet",
+    "category": "Tablets",
+    "description": "A portable touchscreen device for browsing, notes, and entertainment.",
+    "price": 389.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "excellent",
+    "condition_notes": "Minimal cosmetic wear; fully functional. Sample inspection status.",
+    "color": "Graphite",
+    "year_made": 2024,
+    "specifications": {
+      "screen_inches": 12.4,
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "operating_system": "Android",
+      "stylus_included": true,
+      "battery_mah": 10000
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Bluetooth",
+      "USB-C"
+    ],
+    "stock_quantity": 6,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Device",
+      "Charging cable",
+      "Stylus"
+    ],
+    "image": "images/ct-slate-pro-12-tablet.webp",
+    "image_alt": "Studio-style image of CT Slate Pro 12 Tablet in graphite",
+    "tags": [
+      "tablets",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-013",
+    "sku": "CT-2025-0013",
+    "slug": "ct-pocket-6-smartphone",
+    "name": "CT Pocket 6 Smartphone",
+    "brand": "Capital Tech",
+    "model": "Pocket 6 Smartphone",
+    "category": "Phones",
+    "description": "An unlocked smartphone for everyday calls, apps, and photos.",
+    "price": 299.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Midnight",
+    "year_made": 2025,
+    "specifications": {
+      "screen_inches": 6.2,
+      "memory_gb": 6,
+      "storage_gb": 128,
+      "operating_system": "Android",
+      "battery_mah": 4500,
+      "unlocked": true
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Bluetooth",
+      "USB-C",
+      "4G LTE"
+    ],
+    "stock_quantity": 14,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Charging cable"
+    ],
+    "image": "images/ct-pocket-6-smartphone.webp",
+    "image_alt": "Studio-style image of CT Pocket 6 Smartphone in midnight",
+    "tags": [
+      "phones",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-014",
+    "sku": "CT-2024-0014",
+    "slug": "ct-pocket-plus-smartphone",
+    "name": "CT Pocket Plus Smartphone",
+    "brand": "Capital Tech",
+    "model": "Pocket Plus Smartphone",
+    "category": "Phones",
+    "description": "An unlocked smartphone for everyday calls, apps, and photos.",
+    "price": 379.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "excellent",
+    "condition_notes": "Minimal cosmetic wear; fully functional. Sample inspection status.",
+    "color": "Lavender",
+    "year_made": 2024,
+    "specifications": {
+      "screen_inches": 6.7,
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "operating_system": "Android",
+      "battery_health_percent": 92,
+      "unlocked": true
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Bluetooth",
+      "USB-C",
+      "4G LTE"
+    ],
+    "stock_quantity": 7,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Device",
+      "Charging cable"
+    ],
+    "image": "images/ct-pocket-plus-smartphone.webp",
+    "image_alt": "Studio-style image of CT Pocket Plus Smartphone in lavender",
+    "tags": [
+      "phones",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-015",
+    "sku": "CT-2023-0015",
+    "slug": "ct-pocket-compact-smartphone",
+    "name": "CT Pocket Compact Smartphone",
+    "brand": "Capital Tech",
+    "model": "Pocket Compact Smartphone",
+    "category": "Phones",
+    "description": "An unlocked smartphone for everyday calls, apps, and photos.",
+    "price": 159.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "good",
+    "condition_notes": "Light cosmetic wear; fully functional. Sample inspection status.",
+    "color": "Mint",
+    "year_made": 2023,
+    "specifications": {
+      "screen_inches": 5.8,
+      "memory_gb": 4,
+      "storage_gb": 64,
+      "operating_system": "Android",
+      "battery_health_percent": 86,
+      "unlocked": true
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Bluetooth",
+      "USB-C",
+      "4G LTE"
+    ],
+    "stock_quantity": 5,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Device",
+      "Charging cable"
+    ],
+    "image": "images/ct-pocket-compact-smartphone.webp",
+    "image_alt": "Studio-style image of CT Pocket Compact Smartphone in mint",
+    "tags": [
+      "phones",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-016",
+    "sku": "CT-2025-0016",
+    "slug": "ct-sound-over-ear-headphones",
+    "name": "CT Sound Over-Ear Headphones",
+    "brand": "Capital Tech",
+    "model": "Sound Over-Ear Headphones",
+    "category": "Audio",
+    "description": "Wireless over-ear headphones with active noise cancellation.",
+    "price": 89.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Black",
+    "year_made": 2025,
+    "specifications": {
+      "wireless": true,
+      "noise_cancellation": true,
+      "battery_hours": 35,
+      "charging_port": "USB-C"
+    },
+    "connectivity": [
+      "Bluetooth",
+      "USB-C"
+    ],
+    "stock_quantity": 18,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Charging cable"
+    ],
+    "image": "images/ct-sound-over-ear-headphones.webp",
+    "image_alt": "Studio-style image of CT Sound Over-Ear Headphones in black",
+    "tags": [
+      "audio",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-017",
+    "sku": "CT-2025-0017",
+    "slug": "ct-sound-buds-wireless-earbuds",
+    "name": "CT Sound Buds Wireless Earbuds",
+    "brand": "Capital Tech",
+    "model": "Sound Buds Wireless Earbuds",
+    "category": "Audio",
+    "description": "Compact wireless earbuds with a pocket-sized charging case.",
+    "price": 49.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "White",
+    "year_made": 2025,
+    "specifications": {
+      "wireless": true,
+      "battery_hours": 7,
+      "battery_with_case_hours": 28,
+      "charging_port": "USB-C",
+      "water_resistance": "IPX4"
+    },
+    "connectivity": [
+      "Bluetooth",
+      "USB-C"
+    ],
+    "stock_quantity": 25,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Charging cable"
+    ],
+    "image": "images/ct-sound-buds-wireless-earbuds.webp",
+    "image_alt": "Studio-style image of CT Sound Buds Wireless Earbuds in white",
+    "tags": [
+      "audio",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-018",
+    "sku": "CT-2025-0018",
+    "slug": "ct-boom-portable-speaker",
+    "name": "CT Boom Portable Speaker",
+    "brand": "Capital Tech",
+    "model": "Boom Portable Speaker",
+    "category": "Audio",
+    "description": "A rechargeable portable speaker for music at home or on the go.",
+    "price": 59.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Teal",
+    "year_made": 2025,
+    "specifications": {
+      "power_watts": 20,
+      "battery_hours": 12,
+      "water_resistance": "IPX7",
+      "wireless": true
+    },
+    "connectivity": [
+      "Bluetooth",
+      "USB-C"
+    ],
+    "stock_quantity": 16,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Charging cable"
+    ],
+    "image": "images/ct-boom-portable-speaker.webp",
+    "image_alt": "Studio-style image of CT Boom Portable Speaker in teal",
+    "tags": [
+      "audio",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-019",
+    "sku": "CT-2023-0019",
+    "slug": "ct-desk-studio-speakers",
+    "name": "CT Desk Studio Speakers",
+    "brand": "Capital Tech",
+    "model": "Desk Studio Speakers",
+    "category": "Audio",
+    "description": "A pair of powered desktop speakers with a warm walnut finish.",
+    "price": 69.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "good",
+    "condition_notes": "Light cosmetic wear; fully functional. Sample inspection status.",
+    "color": "Walnut",
+    "year_made": 2023,
+    "specifications": {
+      "speaker_count": 2,
+      "total_power_watts": 40,
+      "input": "3.5 mm stereo",
+      "power_source": "AC adapter"
+    },
+    "connectivity": [
+      "3.5 mm audio"
+    ],
+    "stock_quantity": 4,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Two speakers",
+      "Power adapter",
+      "3.5 mm audio cable"
+    ],
+    "image": "images/ct-desk-studio-speakers.webp",
+    "image_alt": "Studio-style image of CT Desk Studio Speakers in walnut",
+    "tags": [
+      "audio",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-020",
+    "sku": "CT-2024-0020",
+    "slug": "ct-play-handheld-console",
+    "name": "CT Play Handheld Console",
+    "brand": "Capital Tech",
+    "model": "Play Handheld Console",
+    "category": "Gaming",
+    "description": "A portable gaming device with integrated controls.",
+    "price": 249.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "excellent",
+    "condition_notes": "Minimal cosmetic wear; fully functional. Sample inspection status.",
+    "color": "Black",
+    "year_made": 2024,
+    "specifications": {
+      "screen_inches": 7,
+      "storage_gb": 256,
+      "memory_gb": 8,
+      "operating_system": "Linux",
+      "battery_hours": 6
+    },
+    "connectivity": [
+      "Bluetooth",
+      "USB-C"
+    ],
+    "stock_quantity": 6,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Device",
+      "Charging cable"
+    ],
+    "image": "images/ct-play-handheld-console.webp",
+    "image_alt": "Studio-style image of CT Play Handheld Console in black",
+    "tags": [
+      "gaming",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-021",
+    "sku": "CT-2025-0021",
+    "slug": "ct-play-wireless-controller",
+    "name": "CT Play Wireless Controller",
+    "brand": "Capital Tech",
+    "model": "Play Wireless Controller",
+    "category": "Gaming",
+    "description": "A rechargeable wireless controller for compatible games and devices.",
+    "price": 39.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Electric Blue",
+    "year_made": 2025,
+    "specifications": {
+      "wireless": true,
+      "battery_hours": 20,
+      "vibration": true,
+      "charging_port": "USB-C"
+    },
+    "connectivity": [
+      "Bluetooth",
+      "USB-C"
+    ],
+    "stock_quantity": 22,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Charging cable"
+    ],
+    "image": "images/ct-play-wireless-controller.webp",
+    "image_alt": "Studio-style image of CT Play Wireless Controller in electric blue",
+    "tags": [
+      "gaming",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-022",
+    "sku": "CT-2025-0022",
+    "slug": "ct-mechanical-tkl-keyboard",
+    "name": "CT Mechanical TKL Keyboard",
+    "brand": "Capital Tech",
+    "model": "Mechanical TKL Keyboard",
+    "category": "Accessories",
+    "description": "A compact mechanical keyboard with tactile switches and backlighting.",
+    "price": 64.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "White",
+    "year_made": 2025,
+    "specifications": {
+      "layout": "US English",
+      "key_count": 87,
+      "switch_type": "Tactile",
+      "backlight": true,
+      "connection": "USB-C"
+    },
+    "connectivity": [
+      "USB-C"
+    ],
+    "stock_quantity": 17,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Keyboard",
+      "USB-C cable"
+    ],
+    "image": "images/ct-mechanical-tkl-keyboard.webp",
+    "image_alt": "Studio-style image of CT Mechanical TKL Keyboard in white",
+    "tags": [
+      "accessories",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-023",
+    "sku": "CT-2025-0023",
+    "slug": "ct-precision-wireless-mouse",
+    "name": "CT Precision Wireless Mouse",
+    "brand": "Capital Tech",
+    "model": "Precision Wireless Mouse",
+    "category": "Accessories",
+    "description": "An adjustable-sensitivity wireless mouse with a USB receiver.",
+    "price": 24.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Graphite",
+    "year_made": 2025,
+    "specifications": {
+      "max_dpi": 3200,
+      "button_count": 6,
+      "handedness": "Right",
+      "battery_type": "1 × AA"
+    },
+    "connectivity": [
+      "2.4 GHz USB receiver"
+    ],
+    "stock_quantity": 30,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Mouse",
+      "USB receiver",
+      "AA battery"
+    ],
+    "image": "images/ct-precision-wireless-mouse.webp",
+    "image_alt": "Studio-style image of CT Precision Wireless Mouse in graphite",
+    "tags": [
+      "accessories",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-024",
+    "sku": "CT-2025-0024",
+    "slug": "ct-connect-8-in-1-usb-c-hub",
+    "name": "CT Connect 8-in-1 USB-C Hub",
+    "brand": "Capital Tech",
+    "model": "Connect 8-in-1 USB-C Hub",
+    "category": "Accessories",
+    "description": "An eight-port USB-C hub for displays, storage, networking, and memory cards.",
+    "price": 44.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Space Gray",
+    "year_made": 2025,
+    "specifications": {
+      "port_count": 8,
+      "hdmi_max_resolution": "3840 × 2160 at 30 Hz",
+      "power_delivery_watts": 100,
+      "card_reader": "SD / microSD"
+    },
+    "connectivity": [
+      "USB-C host",
+      "USB-C PD",
+      "3 × USB-A",
+      "HDMI",
+      "Ethernet",
+      "SD",
+      "microSD"
+    ],
+    "stock_quantity": 19,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "USB-C hub with integrated cable"
+    ],
+    "image": "images/ct-connect-8-in-1-usb-c-hub.webp",
+    "image_alt": "Studio-style image of CT Connect 8-in-1 USB-C Hub in space gray",
+    "tags": [
+      "accessories",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-025",
+    "sku": "CT-2025-0025",
+    "slug": "ct-vault-1tb-portable-ssd",
+    "name": "CT Vault 1TB Portable SSD",
+    "brand": "Capital Tech",
+    "model": "Vault 1TB Portable SSD",
+    "category": "Storage",
+    "description": "A pocket-sized solid-state drive for portable file storage.",
+    "price": 79.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Silver",
+    "year_made": 2025,
+    "specifications": {
+      "capacity_gb": 1000,
+      "interface": "USB 3.2 Gen 2",
+      "max_read_mbps": 1050,
+      "connector": "USB-C"
+    },
+    "connectivity": [
+      "USB-C"
+    ],
+    "stock_quantity": 24,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Charging cable"
+    ],
+    "image": "images/ct-vault-1tb-portable-ssd.webp",
+    "image_alt": "Studio-style image of CT Vault 1TB Portable SSD in silver",
+    "tags": [
+      "storage",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-026",
+    "sku": "CT-2025-0026",
+    "slug": "ct-home-ax1800-router",
+    "name": "CT Home AX1800 Router",
+    "brand": "Capital Tech",
+    "model": "Home AX1800 Router",
+    "category": "Networking",
+    "description": "A dual-band Wi-Fi 6 router for home networking.",
+    "price": 74.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "White",
+    "year_made": 2025,
+    "specifications": {
+      "wifi_standard": "Wi-Fi 6",
+      "bands": [
+        "2.4 GHz",
+        "5 GHz"
+      ],
+      "ethernet_ports": 4,
+      "max_wireless_link_mbps": 1800
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Ethernet"
+    ],
+    "stock_quantity": 11,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-home-ax1800-router.webp",
+    "image_alt": "Studio-style image of CT Home AX1800 Router in white",
+    "tags": [
+      "networking",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-027",
+    "sku": "CT-2024-0027",
+    "slug": "ct-mesh-duo-wi-fi-kit",
+    "name": "CT Mesh Duo Wi-Fi Kit",
+    "brand": "Capital Tech",
+    "model": "Mesh Duo Wi-Fi Kit",
+    "category": "Networking",
+    "description": "A two-node Wi-Fi 6 kit for extending home wireless coverage.",
+    "price": 119.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "excellent",
+    "condition_notes": "Minimal cosmetic wear; fully functional. Sample inspection status.",
+    "color": "White",
+    "year_made": 2024,
+    "specifications": {
+      "wifi_standard": "Wi-Fi 6",
+      "node_count": 2,
+      "ethernet_ports_per_node": 2,
+      "bands": [
+        "2.4 GHz",
+        "5 GHz"
+      ]
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "Ethernet"
+    ],
+    "stock_quantity": 5,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Two mesh nodes",
+      "Two power adapters",
+      "Ethernet cable"
+    ],
+    "image": "images/ct-mesh-duo-wi-fi-kit.webp",
+    "image_alt": "Studio-style image of CT Mesh Duo Wi-Fi Kit in white",
+    "tags": [
+      "networking",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-028",
+    "sku": "CT-2025-0028",
+    "slug": "ct-print-home-wireless-printer",
+    "name": "CT Print Home Wireless Printer",
+    "brand": "Capital Tech",
+    "model": "Print Home Wireless Printer",
+    "category": "Printers",
+    "description": "A wireless color inkjet printer with a built-in scanner.",
+    "price": 99.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "White",
+    "year_made": 2025,
+    "specifications": {
+      "technology": "Inkjet",
+      "color_printing": true,
+      "scanner": true,
+      "max_paper_size": "A4 / Letter",
+      "duplex": "Manual"
+    },
+    "connectivity": [
+      "Wi-Fi",
+      "USB"
+    ],
+    "stock_quantity": 8,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Device",
+      "Power adapter"
+    ],
+    "image": "images/ct-print-home-wireless-printer.webp",
+    "image_alt": "Studio-style image of CT Print Home Wireless Printer in white",
+    "tags": [
+      "printers",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-029",
+    "sku": "CT-2024-0029",
+    "slug": "ct-wrist-active-smartwatch",
+    "name": "CT Wrist Active Smartwatch",
+    "brand": "Capital Tech",
+    "model": "Wrist Active Smartwatch",
+    "category": "Wearables",
+    "description": "A smartwatch with activity tracking and a heart-rate sensor.",
+    "price": 89.99,
+    "currency": "USD",
+    "pre_owned": true,
+    "condition": "excellent",
+    "condition_notes": "Minimal cosmetic wear; fully functional. Sample inspection status.",
+    "color": "Rose Gold",
+    "year_made": 2024,
+    "specifications": {
+      "screen_inches": 1.8,
+      "band_size_mm": 22,
+      "battery_days": 5,
+      "heart_rate_sensor": true,
+      "water_resistance": "IP68"
+    },
+    "connectivity": [
+      "Bluetooth"
+    ],
+    "stock_quantity": 7,
+    "availability": "in_stock",
+    "warranty_months": 6,
+    "included_items": [
+      "Watch",
+      "22 mm band",
+      "Magnetic charging cable"
+    ],
+    "image": "images/ct-wrist-active-smartwatch.webp",
+    "image_alt": "Studio-style image of CT Wrist Active Smartwatch in rose gold",
+    "tags": [
+      "wearables",
+      "pre-owned"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  },
+  {
+    "id": "ct-030",
+    "sku": "CT-2025-0030",
+    "slug": "ct-meet-1080p-webcam",
+    "name": "CT Meet 1080p Webcam",
+    "brand": "Capital Tech",
+    "model": "Meet 1080p Webcam",
+    "category": "Accessories",
+    "description": "A Full HD webcam with a microphone and privacy shutter.",
+    "price": 34.99,
+    "currency": "USD",
+    "pre_owned": false,
+    "condition": "new",
+    "condition_notes": "Unused. Sample new inventory.",
+    "color": "Black",
+    "year_made": 2025,
+    "specifications": {
+      "resolution": "1920 × 1080",
+      "frame_rate_fps": 30,
+      "microphone": true,
+      "privacy_shutter": true,
+      "mount": "Monitor clip"
+    },
+    "connectivity": [
+      "USB-A"
+    ],
+    "stock_quantity": 21,
+    "availability": "in_stock",
+    "warranty_months": 12,
+    "included_items": [
+      "Webcam with integrated USB cable",
+      "Monitor clip"
+    ],
+    "image": "images/ct-meet-1080p-webcam.webp",
+    "image_alt": "Studio-style image of CT Meet 1080p Webcam in black",
+    "tags": [
+      "accessories",
+      "new"
+    ],
+    "is_sample": true,
+    "image_type": "ai_generated_photorealistic"
+  }
+]

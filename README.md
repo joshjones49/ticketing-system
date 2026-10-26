@@ -1,3 +1,3 @@
-# Ticketing System
+# Capital Tech
 
-This project will be an enterprise-style ticketing system for data center technicians.
+Capital Tech's website features a ticketing system for technicians and showcases devices the company has for sale.

@@ -1,0 +1,127 @@
+[
+  {
+    "ticketNumber": "CT-1001",
+    "status": "Open",
+    "description": "Replace a cracked iPhone screen and verify touch response across the display."
+  },
+  {
+    "ticketNumber": "CT-1002",
+    "status": "In Progress",
+    "description": "Replace a worn Android phone battery that drains quickly and shuts down unexpectedly."
+  },
+  {
+    "ticketNumber": "CT-1003",
+    "status": "Waiting on Parts",
+    "description": "Repair a damaged USB-C charging port on a laptop that only charges when the cable is held at an angle."
+  },
+  {
+    "ticketNumber": "CT-1004",
+    "status": "Open",
+    "description": "Diagnose a laptop that will not power on and test its power adapter and internal battery."
+  },
+  {
+    "ticketNumber": "CT-1005",
+    "status": "Ready for Pickup",
+    "description": "Replace a tablet's cracked glass digitizer and confirm that the touchscreen responds correctly."
+  },
+  {
+    "ticketNumber": "CT-1006",
+    "status": "In Progress",
+    "description": "Replace a faulty laptop keyboard with several unresponsive keys."
+  },
+  {
+    "ticketNumber": "CT-1007",
+    "status": "Open",
+    "description": "Clean and repair a smartphone speaker that sounds muffled during calls and media playback."
+  },
+  {
+    "ticketNumber": "CT-1008",
+    "status": "Closed",
+    "description": "Replace a damaged headphone jack and test audio output with wired headphones."
+  },
+  {
+    "ticketNumber": "CT-1009",
+    "status": "Waiting on Parts",
+    "description": "Replace a laptop cooling fan that is making a grinding noise and causing overheating."
+  },
+  {
+    "ticketNumber": "CT-1010",
+    "status": "In Progress",
+    "description": "Diagnose and replace a phone camera module that produces blurry images."
+  },
+  {
+    "ticketNumber": "CT-1011",
+    "status": "Open",
+    "description": "Repair a tablet charging issue by inspecting the charging port, cable, and battery."
+  },
+  {
+    "ticketNumber": "CT-1012",
+    "status": "Ready for Pickup",
+    "description": "Replace a laptop screen with flickering lines and verify display output."
+  },
+  {
+    "ticketNumber": "CT-1013",
+    "status": "In Progress",
+    "description": "Replace a smartphone rear glass panel that shattered after a drop."
+  },
+  {
+    "ticketNumber": "CT-1014",
+    "status": "Open",
+    "description": "Diagnose a game console that shuts down during gameplay and clean its cooling system."
+  },
+  {
+    "ticketNumber": "CT-1015",
+    "status": "Waiting on Parts",
+    "description": "Replace a faulty laptop trackpad that intermittently fails to register clicks."
+  },
+  {
+    "ticketNumber": "CT-1016",
+    "status": "Closed",
+    "description": "Replace a phone's failing earpiece speaker and confirm clear call audio."
+  },
+  {
+    "ticketNumber": "CT-1017",
+    "status": "In Progress",
+    "description": "Recover a laptop from a failed operating system update and check the storage drive for errors."
+  },
+  {
+    "ticketNumber": "CT-1018",
+    "status": "Open",
+    "description": "Replace a swollen smartphone battery and inspect the device for pressure damage."
+  },
+  {
+    "ticketNumber": "CT-1019",
+    "status": "Ready for Pickup",
+    "description": "Repair a desktop computer that has no video output by testing its memory and graphics card connections."
+  },
+  {
+    "ticketNumber": "CT-1020",
+    "status": "In Progress",
+    "description": "Replace a tablet power button that is stuck and does not reliably wake the device."
+  },
+  {
+    "ticketNumber": "CT-1021",
+    "status": "Open",
+    "description": "Diagnose a smartphone that cannot connect to Wi-Fi and check its network settings and wireless hardware."
+  },
+  {
+    "ticketNumber": "CT-1022",
+    "status": "Waiting on Parts",
+    "description": "Replace a laptop hinge and secure the display assembly, which has become loose."
+  },
+  {
+    "ticketNumber": "CT-1023",
+    "status": "Closed",
+    "description": "Clean liquid residue from a game controller and replace its unresponsive buttons."
+  },
+  {
+    "ticketNumber": "CT-1024",
+    "status": "In Progress",
+    "description": "Replace a phone microphone that produces faint or distorted audio during calls."
+  },
+  {
+    "ticketNumber": "CT-1025",
+    "status": "Open",
+    "description": "Diagnose a desktop computer with random restarts and test the power supply and memory."
+  }
+]
