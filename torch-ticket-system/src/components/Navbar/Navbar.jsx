@@ -22,7 +22,7 @@ const Navbar = () => {
           </div>
         </div>
         
-        <div className='nav-divs'>RIGHT DIV</div>
+        <div className='nav-divs'></div>
     </div>
   )
 }

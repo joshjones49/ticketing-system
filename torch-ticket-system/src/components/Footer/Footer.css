@@ -30,19 +30,21 @@
   justify-content: space-between;
   gap: 20px;
   padding: 22px 28px;
-  background: linear-gradient(90deg, #12616a, #1b2430);
+  background: linear-gradient(90deg, rgb(0, 202, 202), rgb(240, 240, 240));
 }
 
 .footer-careers h3 {
   margin: 0 0 4px;
   color: #fff;
   font-size: 1.1rem;
+  text-shadow: 0px 0px 3px black;
 }
 
 .footer-careers p {
   margin: 0;
   font-size: 0.85rem;
   color: #d6e4e8;
+  text-shadow: 0px 0px 3px black;
 }
 
 .footer .footer-cta {

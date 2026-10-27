@@ -20,7 +20,7 @@ const Main = () => {
       <header className='catalog-header'>
         <div>
           <p className='catalog-eyebrow'>CAPITAL TECH</p>
-          <h1>Shop Our Products</h1>
+          <h1>Shop Products</h1>
           <p className='catalog-description'>Quality devices and accessories for work, home, and play.</p>
         </div>
         <span className='catalog-count'>{products.length} products</span>
